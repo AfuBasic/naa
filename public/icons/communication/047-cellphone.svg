@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<path style="fill:#063E8B;" d="M346,90c-8.291,0-15-6.709-15-15V15c0-8.291,6.709-15,15-15s15,6.709,15,15v60
+	C361,83.291,354.291,90,346,90z"/>
+<path style="fill:#0F60CF;" d="M346,60H166c-41.4,0-75,33.6-75,75v302c0,41.4,33.6,75,75,75h180c41.4,0,75-33.6,75-75V135
+	C421,93.6,387.4,60,346,60z"/>
+<path style="fill:#0A4EAF;" d="M421,135v302c0,41.4-33.6,75-75,75h-90V60h90C387.4,60,421,93.6,421,135z"/>
+<g>
+	<path style="fill:#CAE8F9;" d="M346,120H166c-8.401,0-15,6.599-15,15v122c0,8.399,6.599,15,15,15h180c8.401,0,15-6.601,15-15V135
+		C361,126.599,354.401,120,346,120z"/>
+	<circle style="fill:#CAE8F9;" cx="166" cy="317" r="15"/>
+	<circle style="fill:#CAE8F9;" cx="226" cy="317" r="15"/>
+</g>
+<g>
+	<circle style="fill:#B7E0F6;" cx="286" cy="317" r="15"/>
+	<circle style="fill:#B7E0F6;" cx="346" cy="317" r="15"/>
+	<circle style="fill:#B7E0F6;" cx="346" cy="377" r="15"/>
+	<circle style="fill:#B7E0F6;" cx="286" cy="377" r="15"/>
+</g>
+<g>
+	<circle style="fill:#CAE8F9;" cx="226" cy="377" r="15"/>
+	<circle style="fill:#CAE8F9;" cx="166" cy="377" r="15"/>
+	<circle style="fill:#CAE8F9;" cx="166" cy="437" r="15"/>
+	<circle style="fill:#CAE8F9;" cx="226" cy="437" r="15"/>
+</g>
+<g>
+	<circle style="fill:#B7E0F6;" cx="286" cy="437" r="15"/>
+	<circle style="fill:#B7E0F6;" cx="346" cy="437" r="15"/>
+	<path style="fill:#B7E0F6;" d="M361,135v122c0,8.399-6.599,15-15,15h-90V120h90C354.401,120,361,126.599,361,135z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>

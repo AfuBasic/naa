@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `naa_email` VARCHAR(255) NULL AFTER `type`;

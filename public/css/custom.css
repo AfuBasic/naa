@@ -1,0 +1,108 @@
+/* Add here all your CSS customizations */
+.text-white{
+
+	font-color: #fff !important;
+	text-decoration : none;
+}
+
+.no-decoration{
+
+	text-decoration : none !important;
+}
+
+.svg-30{
+
+	width: 40%; 
+	height: 40%
+}
+
+.svg-15{
+
+	width: 15%; 
+	height: 15%
+}
+
+.svg-10{
+
+	width: 10%;
+	height: 10%;
+}
+
+.svg-5{
+
+	width: 5%;
+	height: 5%;
+}
+
+.btn-fixed{
+
+	position : fixed;
+	bottom : 15px;
+	right : 15px;
+
+}
+
+.btn-fixed[data-badge]:after{
+
+	content:attr(data-badge);
+	position:absolute;
+	top:-10px;
+	right:-10px;
+	font-size:.7em;
+	background:green;
+	color:white;
+	width:18px;height:18px;
+	text-align:center;
+	line-height:18px;
+	border-radius:50%;
+	box-shadow:0 0 1px #333;
+}
+
+.btn-fixed > span {
+    position: absolute;
+    top:-5px;
+    right: -8px;
+    padding: 3px 9px;
+    border: 2px solid white;
+    border-radius:100px;
+    background: -webkit-linear-gradient(top, #FF6969 0%,#ff0000 100%);
+    box-shadow: 0 1px 2px rgba(0,0,0,.5), 0 1px 4px rgba(0,0,0,.4), 0 0 1px rgba(0,0,0,.7) inset, 0 10px 0px rgba(255,255,255,.11) inset; 
+    -webkit-background-clip: padding-box;
+    font:bold 16px/20px "Helvetica Neue", sans-serif; 
+    color: white;
+    text-decoration: none;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.6);
+}
+
+.tag{
+
+	display: inline-block;
+    padding: .35em .4em;
+    font-size: 85%;
+    font-weight: 600;
+    line-height: 1;
+    color: #FFF;
+    text-align: center;
+    vertical-align: baseline;
+    border-radius: .18rem;
+}
+
+.tag-up{
+
+	position: relative;
+	top: -13px;
+	right: 14px;
+}
+
+.tag-pill{
+
+	padding-right: .6em;
+	padding-left: .6em;
+	border-radius: 10rem;
+}
+
+.tag-danger{
+
+	background-color: #da4453;
+}
+

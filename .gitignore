@@ -1,0 +1,7 @@
+laravel/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+storage
+.DS_Store
+
